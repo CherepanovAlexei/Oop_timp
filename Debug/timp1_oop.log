@@ -1,7 +1,10 @@
-﻿  Flower.cpp
-C:\Users\Shele\Documents\GitHub\Timp_oop\Flower.cpp(70,20): warning C4018: <: несоответствие типов со знаком и без знака
+﻿  Bush.cpp
+  Container.cpp
+  Flower.cpp
   Plant.cpp
+C:\Users\Shele\Documents\GitHub\Timp_oop\Plant.cpp(40,23): warning C4018: <: несоответствие типов со знаком и без знака
   Tree.cpp
-C:\Users\Shele\Documents\GitHub\Timp_oop\Tree.cpp(46,20): warning C4018: <: несоответствие типов со знаком и без знака
+  timp1_oop.cpp
   Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Shele\Documents\GitHub\Timp_oop\Debug\timp1_oop.exe при последней инкрементной компоновке; выполняется полная компоновка
   timp1_oop.vcxproj -> C:\Users\Shele\Documents\GitHub\Timp_oop\Debug\timp1_oop.exe
